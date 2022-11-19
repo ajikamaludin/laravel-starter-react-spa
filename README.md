@@ -1,0 +1,1 @@
+## Laravel + React (SPA) Template
